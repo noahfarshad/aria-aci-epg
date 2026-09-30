@@ -2,6 +2,9 @@
 
 The Cisco ACI plugin that shipped with Aria was validated through older vRA releases and stops being a supported path on current Aria Automation. These Orchestrator actions do the placement directly: authenticate to APIC, confirm the EPG, find the port group, and move the VM's NIC.
 
+License: GPL-3.0. Built and proved out for [essential.coach](https://essential.coach).
+Full write-up: [Cisco ACI and Aria Automation When the Vendor Plugin Stops](https://essential.coach/cisco-aci-aria-automation-when-the-plugin-stops/)
+
 ## Layout
 
 ```
